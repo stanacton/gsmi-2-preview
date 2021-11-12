@@ -329,6 +329,8 @@ $max-width: 1200px;
         text-align: center;
         color: white;
 
+
+
         .header-content {
             margin-left: auto;
             margin-right: auto;
@@ -337,11 +339,12 @@ $max-width: 1200px;
             font-size: 14px;
 
             .contact-us-container {
+                margin-top: 40px;
                 margin-bottom: 40px;
             }
 
             p.header-message {
-                font-size: 17px;
+                font-size: 22px;
             }
 
 
@@ -610,6 +613,20 @@ $max-width: 1200px;
       background-color: $primary;
     }
 
+  .gsmi-2-container {
+    .links{
+      a {
+        font-size: 22px;
+      }
+
+      li {
+        a {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+
   .executive-summary-list,
   .press-release-list {
     margin-top: 0;
@@ -628,11 +645,14 @@ $max-width: 1200px;
   .arrow-down {
     display: none;
   }
-
+  .header-message {
+    font-size: 22px;
+  }
   .key-areas {
     text-align: left;
     display: flex;
     ol {
+      font-size: 22px;
       text-align: left;
       margin-left: auto;
       margin-right: auto;

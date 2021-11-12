@@ -4399,11 +4399,12 @@
 }
 .gsmi-report-wrapper .blue-background .header-content .contact-us-container,
 .gsmi-report-wrapper .header .header-content .contact-us-container {
+  margin-top: 40px;
   margin-bottom: 40px;
 }
 .gsmi-report-wrapper .blue-background .header-content p.header-message,
 .gsmi-report-wrapper .header .header-content p.header-message {
-  font-size: 17px;
+  font-size: 22px;
 }
 .gsmi-report-wrapper .blue-background .header-content .summary,
 .gsmi-report-wrapper .header .header-content .summary {
@@ -4674,6 +4675,12 @@
 .gsmi-report-wrapper .btn, .gsmi-report-wrapper .btn-large, .gsmi-report-wrapper .btn-small {
   background-color: #00B0E9;
 }
+.gsmi-report-wrapper .gsmi-2-container .links a {
+  font-size: 22px;
+}
+.gsmi-report-wrapper .gsmi-2-container .links li a {
+  font-size: 16px;
+}
 .gsmi-report-wrapper .executive-summary-list,
 .gsmi-report-wrapper .press-release-list {
   margin-top: 0;
@@ -4691,11 +4698,15 @@
 .gsmi-report-wrapper .arrow-down {
   display: none;
 }
+.gsmi-report-wrapper .header-message {
+  font-size: 22px;
+}
 .gsmi-report-wrapper .key-areas {
   text-align: left;
   display: flex;
 }
 .gsmi-report-wrapper .key-areas ol {
+  font-size: 22px;
   text-align: left;
   margin-left: auto;
   margin-right: auto;
