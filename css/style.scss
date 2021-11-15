@@ -679,6 +679,13 @@ $max-width: 1200px;
     }
   }
 
+  .in-depth-reports {
+    img {
+      border: 1px solid $primary;
+      height: 130px;
+    }
+  }
+
 }
 
 .blue-square {

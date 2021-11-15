@@ -4725,6 +4725,10 @@
 .gsmi-report-wrapper .latest-news a {
   color: white;
 }
+.gsmi-report-wrapper .in-depth-reports img {
+  border: 1px solid #00B0E9;
+  height: 130px;
+}
 
 .blue-square {
   width: 100px;
